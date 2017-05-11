@@ -8,3 +8,4 @@ C:\Users\smileMan\documents\visual studio 2017\Projects\SchoolWebsiteUpdateCheck
 C:\Users\smileMan\documents\visual studio 2017\Projects\SchoolWebsiteUpdateChecker\SchoolWebsiteUpdateChecker\obj\Debug\SchoolWebsiteUpdateChecker.csproj.GenerateResource.Cache
 C:\Users\smileMan\documents\visual studio 2017\Projects\SchoolWebsiteUpdateChecker\SchoolWebsiteUpdateChecker\obj\Debug\SchoolWebsiteUpdateChecker.exe
 C:\Users\smileMan\documents\visual studio 2017\Projects\SchoolWebsiteUpdateChecker\SchoolWebsiteUpdateChecker\obj\Debug\SchoolWebsiteUpdateChecker.pdb
+C:\Users\smileMan\documents\visual studio 2017\Projects\SchoolWebsiteUpdateChecker\SchoolWebsiteUpdateChecker\obj\Debug\SchoolWebsiteUpdateChecker.csprojResolveAssemblyReference.cache

@@ -79,11 +79,11 @@ namespace SchoolWebsiteUpdateChecker
                 var t = c.Split('=');
                 d.Add(t[0], t[1]);
             }
-            startOnBoot.Checked = d["startup"] == "true";
-            ListenBksy.Checked = d["Bksy"] == "true";
-            ListenCC98.Checked = d["CC98"] == "true";
-            ListenJww.Checked = d["Jww"] == "true";
-            ListenJy.Checked = d["Jy"] == "true";
+            startOnBoot.Checked = d["startup"] == "True";
+            ListenBksy.Checked = d["Bksy"] == "True";
+            ListenCC98.Checked = d["CC98"] == "True";
+            ListenJww.Checked = d["Jww"] == "True";
+            ListenJy.Checked = d["Jy"] == "True";
         }
 
         public void UpdateConfig()
