@@ -24,7 +24,7 @@ namespace SchoolWebsiteUpdateChecker
         private UpdateChecker[] checkers;
         public int timeInterval = 1000 * 60 * 10;
         public string currentUrl;
-        public string defaultConfig = "startup=false\nJww=true\nBksy=true\nCC98=true\nJy=true";
+        public string defaultConfig = "startup=False\nJww=True\nBksy=True\nCC98=True\nJy=True";
         public string configFileName = "config.txt";
         Thread monitor;
 
