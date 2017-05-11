@@ -1,0 +1,10 @@
+C:\Users\smileMan\documents\visual studio 2017\Projects\SchoolWebsiteUpdateChecker\SchoolWebsiteUpdateChecker\bin\Debug\SchoolWebsiteUpdateChecker.exe.config
+C:\Users\smileMan\documents\visual studio 2017\Projects\SchoolWebsiteUpdateChecker\SchoolWebsiteUpdateChecker\bin\Debug\SchoolWebsiteUpdateChecker.exe
+C:\Users\smileMan\documents\visual studio 2017\Projects\SchoolWebsiteUpdateChecker\SchoolWebsiteUpdateChecker\bin\Debug\SchoolWebsiteUpdateChecker.pdb
+C:\Users\smileMan\documents\visual studio 2017\Projects\SchoolWebsiteUpdateChecker\SchoolWebsiteUpdateChecker\bin\Debug\HtmlAgilityPack.dll
+C:\Users\smileMan\documents\visual studio 2017\Projects\SchoolWebsiteUpdateChecker\SchoolWebsiteUpdateChecker\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\smileMan\documents\visual studio 2017\Projects\SchoolWebsiteUpdateChecker\SchoolWebsiteUpdateChecker\bin\Debug\HtmlAgilityPack.xml
+C:\Users\smileMan\documents\visual studio 2017\Projects\SchoolWebsiteUpdateChecker\SchoolWebsiteUpdateChecker\obj\Debug\SchoolWebsiteUpdateChecker.Properties.Resources.resources
+C:\Users\smileMan\documents\visual studio 2017\Projects\SchoolWebsiteUpdateChecker\SchoolWebsiteUpdateChecker\obj\Debug\SchoolWebsiteUpdateChecker.csproj.GenerateResource.Cache
+C:\Users\smileMan\documents\visual studio 2017\Projects\SchoolWebsiteUpdateChecker\SchoolWebsiteUpdateChecker\obj\Debug\SchoolWebsiteUpdateChecker.exe
+C:\Users\smileMan\documents\visual studio 2017\Projects\SchoolWebsiteUpdateChecker\SchoolWebsiteUpdateChecker\obj\Debug\SchoolWebsiteUpdateChecker.pdb

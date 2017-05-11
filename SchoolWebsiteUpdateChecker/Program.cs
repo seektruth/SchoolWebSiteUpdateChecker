@@ -1,14 +1,8 @@
 ﻿using System;
 using System.IO;
+using System.Windows.Forms;
 
 
-/*
- 等待解决的问题：
- 1.如何实现开机启动
- 2.网络错误处理
- 3.菜单设计
- 4.sleep
-     */
 namespace SchoolWebsiteUpdateChecker
 {
     static class Program
@@ -16,11 +10,12 @@ namespace SchoolWebsiteUpdateChecker
         /// <summary>
         /// 应用程序的主入口点。
         /// </summary>
-        /// [STAThread]
+        [STAThread]
         static void Main()
         {
-            var testChecker = new BksyChecker();
-            testChecker.check();
+            Directory.SetCurrentDirectory(Application.StartupPath);
+            new MenuController();
+            Application.Run();
         }
     }
 }
